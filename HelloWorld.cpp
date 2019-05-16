@@ -1,4 +1,4 @@
-#icnlude <iostream>
+#include <iostream>
 
 int main()
 {
